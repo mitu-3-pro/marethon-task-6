@@ -5,7 +5,7 @@
 }
 .back{
     position: relative;
-    background: url(image/background.png);
+    background: url(background.png);
     background-size: cover;
 }
 .navbar{
@@ -153,7 +153,7 @@
 }
 .back-img{
     position: absolute;
-    background: url(image/back.jpg) no-repeat;
+    background: url(back.jpg) no-repeat;
     right: -40px;
     padding: 200px;
     margin-top: 150px;
@@ -184,14 +184,14 @@
 }
 .third{
     position: relative;
-    background: url(image/4-back.png) no-repeat;
+    background: url(4-back.png) no-repeat;
     padding-top: 50px;
     padding-left: 50px;
     padding-right: 50px;
 }
 .t-img{
     padding-top: -20px;
-    background: url(image/4.png) no-repeat;
+    background: url(4.png) no-repeat;
     z-index: 1;
     background-size: cover;
 }
@@ -297,7 +297,7 @@
 .six{
     position: relative;
     padding: 20px;
-    background: url(image/6-back.jpg) no-repeat;
+    background: url(6-back.jpg) no-repeat;
     background-size: cover;
 }
 .six-p{
